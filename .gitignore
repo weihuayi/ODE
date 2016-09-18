@@ -1,3 +1,4 @@
 homework
 .ipynb_*
 *.term
+.*-jupyter
